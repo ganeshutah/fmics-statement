@@ -1,0 +1,126 @@
+
+I agree with John.  You are using Moore’s Law as a proxy for saying that the need for energy efficiency is leading to lots of software and hardware experimentation that is impacting correctness.   Why not just be explicit and avoid confusion?
+
+
+> On Jun 21, 2020, at 1:13 PM, John Regehr <regehr@cs.utah.edu> wrote:
+>
+> Hi Ganesh, I like it but if I were writing this I'd try to make it jump around less.
+>
+> For example I'd be tempted to nuke this bit:
+>
+> > The End of Moore's law challenges us to compile to unusual mixes of
+> > hardware. System-level point tools such as Sanitizers and Race
+> > Checkers are essential - but they must ride the very same programming
+> > APIs and libraries, avoiding ossification.
+>
+--
+V1
+
+Formal methods are not getting the attention they deserve. 
+
+As for pedagogy, one must not forget the core of FM - namely the
+ability to find bugs in downsized models. Here, tools such as Alloy,
+SPIN, Murphi, BDD/SAT tools, and SMT tools cannot stand apart,
+emphasizing their differences; instead, they must come together into
+polished plug-and-play tooling - a veritable Matlab for correctness
+analysis. Pedagogical success is achieved when a ``Joe Programmer''
+becomes a Youtube teacher (as in ML), touting why one cannot survive
+complexity without Formal Methods.
+
+As for productivity enhancement, the End of Moore's law challenges us
+to compile to unusual mixes of hardware. Here, system level point
+tools such as Sanitizers and Race Checkers must ride the very same
+APIs and libraries being created to manage programming
+complexity. Synthesis tools must target the same APIs and stay nimble
+to cater to leading experts, avoiding ossification.
+
+As for societal responsibility, our contributions to save the planet
+and its denizens can come in the form of energy savings made possible
+through reduced precision, and on-line checks catching bit-flips to
+bad actors.
+
+It is fine if the real pistons and crankshafts of system building are
+guided by Empirical Software Engineering -- so long as Formal Methods
+are the precision ball-bearings no one sees.
+
+--
+V2
+
+Formal methods are not getting the attention they deserve; but what
+are we wishing for?
+
+One must not forget the core of FM: the ability to find bugs in
+downsized models. Here, tools such as Alloy, SPIN, Murphi, BDD/SAT
+tools, and SMT tools cannot stand apart, emphasizing their
+differences; they must instead cohere into polished plug-and-play
+tooling - a veritable Matlab for correctness analysis. Pedagogical
+success is achieved when a ``Joe Programmer'' also becomes a Youtube
+teacher (as in ML).
+
+The End of Moore's law challenges us to compile to unusual mixes of
+hardware. System level point tools such as Sanitizers and Race
+Checkers are essential - but they must ride the very same programming
+APIs and libraries, avoiding ossification.
+
+Energy savings made possible through reduced precision, and on-line
+checks that catch bit-flips to bad actors are good karma.
+
+In conclusion, it is fine for FM to be the precision ball-bearings that nobody sees,
+letting Empirical Software Engineering be the big honking crankshafts.
+
+--
+V3
+
+Formal methods are not getting the attention they deserve; but what
+are we wishing for?
+
+One must not forget the core of Formal Methods: the ability to find
+bugs in downsized models. Here, tools such as Alloy, SPIN, Murphi,
+BDD/SAT tools, and SMT tools cannot stand apart, emphasizing their
+differences; they must instead cohere into polished plug-and-play
+tooling - a veritable Matlab for correctness analysis.
+
+Increasingly, Formal Methods have important roles to play in ensuring
+the correctness of heterogeneous hardware and software in the
+multicore era. There is a growing need for point tools in support of
+system construction, a few examples being Access Sanitizers, Race
+Checkers, and Numerical Precision Tuning tools. Focus on creating such
+tools can keep Formal Methods well aligned with real system design
+needs.
+
+Without enough well-polished and well-curated tools it is nearly
+impossible to make the case for gradually introducing formal ideas
+throughout the curriculum. That must continue to be a central
+emphasis.
+
+---
+V4
+
+Formal methods are not getting the attention they deserve; but what
+are we wishing for? Are we surprised it is not taking off as it
+should? Have we preached to the quire more than demonstrated it
+to our colleagues? Curricular integration?
+
+One must not forget the core of Formal Methods: the ability to find
+bugs in downsized models. Here, tools such as Alloy, SPIN, Murphi,
+BDD/SAT tools, and SMT tools cannot stand apart, emphasizing their
+differences; they must instead cohere into polished plug-and-play
+tooling - a veritable Matlab for correctness analysis.
+
+Increasingly, Formal Methods have important roles to play in ensuring
+the correctness of heterogeneous hardware and software in the
+multicore era. There is a growing need for point tools in support of
+system construction, a few examples being Access Sanitizers, Race
+Checkers, and Numerical Precision Tuning tools. Focus on creating such
+tools can keep Formal Methods well aligned with real system design
+needs.
+
+Without enough well-polished and well-curated tools it is nearly
+impossible to make the case for gradually introducing formal ideas
+throughout the curriculum. That must continue to be a central
+emphasis.
+
+
+
+
+
