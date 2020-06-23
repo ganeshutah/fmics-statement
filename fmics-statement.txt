@@ -234,7 +234,7 @@ based purely on its inner beauty.
 
 With the End of Moore's law combined with insatiable compute needs, we face
 not only the prospects of deep-seated bugs but also extreme productivity loss.
-Formal methods must stay relevant even at this cutting edge: for example,
+Formal methods will become even more critical at this cutting edge: for example,
 race checkers handling irregular computations, and parallelizing compilers
 producing correctness certificates. Today, advanced system design is taught
 detached from promising formal methods that might apply. Cooperation at this
