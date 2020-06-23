@@ -121,6 +121,126 @@ throughout the curriculum. That must continue to be a central
 emphasis.
 
 
+no doubt succeeded
+letting its success and math depth guarantee its future foolish - others take over
+no need to fm every 10 lines of code - failure is in clarifying that. where is the most money lost? lives lost? what methods work the best? what can be left to expert levels and which are the best ways to bring experts into the area? what excites them the most? what can they begin applying today to solve a real-life problem they face? The success of ML has been that. In conclusion it is more about risk calibration. But to appreciate that, students must be first motivated to know where the risks are in advanced systems and coding. I don't think we are doing that.
+
+
+---
+V5
+
+By many measures, Formal Methods have succeeded: how else would you
+explain that no chip tapes out without FM? that it gets routinely
+applied for things such as device drivers? or that C compilers
+can now be mechanically derived?  Yet, formal methods cannot survive
+and remain relevant in curricula solely by the power of their inner beauty.
+We must aggressively engage now to keep FM relevant in classes we teach.
+Here are two suggestions, one addressing systems classes and the other
+addressing foundational beginner classes.
+
+
+First, today's systems classes often do not differentiate between
+getting a system built and getting it built well. For instance,
+a simple 10-line function
+lines of code may be completely innocuous and can simply be
+
+and which other 10 lines can melt the internet. 
+
+one will readily invest in learning
+and teaching formal methods with gusto. That will offer a natural
+placement for formal methods in advanced systems classes.
+
+How can formal methods win placement in beginner classes? For that, it
+must give users something on day-1 that they can apply to their lives.
+This is what ML does (in a day, one can understand how auto-completion
+works). The very first successful formal methods -- model checkers
+and model finders -- are still the first tools of choice for today's
+advanced OS and library designers. It is also entirely fortunate that
+the same tools also can excite someone in a day ("Sudoku by SAT in a day")
+and find meaningful roles in rejuvenating existing discrete math and automata
+classes.
+
+---
+
+V5
+
+By many measures, Formal Methods have succeeded. How else would one explain
+many of its stunning achievements including its ubiquitous use in the hardware
+industry, in the design of critical embedded software, and even in mechanically
+deriving compilers? And yet, Formal Methods do not generate the same level of
+excitement among students as many other topics do. How can we turn things around?
+
+Mindful of these discussions and proposed solutions going back at least three
+decades, what I hope to contribute are two types of classes. 
+
+While these topics have been discussed over decades by experts with 
+
+I believe that one 
+
+I bev
 
 
 
+
+
+
+
+applied for things such as device drivers? or that C compilers
+can now be mechanically derived?  Yet, formal methods cannot survive
+and remain relevant in curricula solely by the power of their inner beauty.
+We must aggressively engage now to keep FM relevant in classes we teach.
+Here are two suggestions, one addressing systems classes and the other
+addressing foundational beginner classes.
+
+
+First, today's systems classes often do not differentiate between
+getting a system built and getting it built well. For instance,
+a simple 10-line function
+lines of code may be completely innocuous and can simply be
+
+and which other 10 lines can melt the internet. 
+
+one will readily invest in learning
+and teaching formal methods with gusto. That will offer a natural
+placement for formal methods in advanced systems classes.
+
+How can formal methods win placement in beginner classes? For that, it
+must give users something on day-1 that they can apply to their lives.
+This is what ML does (in a day, one can understand how auto-completion
+works). The very first successful formal methods -- model checkers
+and model finders -- are still the first tools of choice for today's
+advanced OS and library designers. It is also entirely fortunate that
+the same tools also can excite someone in a day ("Sudoku by SAT in a day")
+and find meaningful roles in rejuvenating existing discrete math and automata
+classes.
+
+---
+
+To keep an area moving briskly, it is important to steadily make news,
+stay relevant, and recruit.
+magic, 
+Magic,
+Relevance,
+Recruitment
+
+
+----
+V6
+
+By many measures, Formal Methods have succeeded. How else could one
+explain its central role in designing high-end hardware, in floating-point
+verification flows, and synthesized artifacts? Yet, FM cannot stay relevant
+based purely on its inner beauty.
+
+With the End of Moore's law combined with insatiable compute needs, we face
+not only the prospects of deep-seated bugs but also extreme productivity loss.
+Formal methods must stay relevant even at this cutting edge: for example,
+race checkers handling irregular computations, and parallelizing compilers
+producing correctness certificates. Today, advanced system design is taught
+detached from promising formal methods that might apply. Cooperation at this
+level is essential to train students, while also keeping them highly motivated.
+Student recruitment efforts must also be launched within entry-level CS classes
+through the judicious insertion of basic Formal Methods (e.g., BDD/SAT and
+model checking/finding) within existing classes that are often outmoded.
+ 
+---
