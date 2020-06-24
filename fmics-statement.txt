@@ -244,3 +244,20 @@ through the judicious insertion of basic Formal Methods (e.g., BDD/SAT and
 model checking/finding) within existing classes that are often outmoded.
  
 ---
+
+Vlast
+
+By many measures, formal methods have succeeded. How else could one
+explain its central role in designing high-end hardware, in verified
+protocols, and synthesized artifacts?  With the end of Moore's law
+combined with insatiable compute needs, we face the prospects of
+deep-seated bugs and extreme productivity loss.  Formal methods become
+even more critical at this cutting edge, with, e.g., race checkers
+handling irregular computations and parallelizing compilers producing
+correctness certificates.  Teaching advanced system design together
+with formal methods is essential to keep students highly
+motivated. Student recruitment efforts must be launched within
+entry-level computer science classes, by inserting basic formal
+methods (e.g., BDD/SAT and model checking/finding) within existing
+classes that are often outmoded.
+
